@@ -1,0 +1,12 @@
+.text-first{
+    cursor:crosshair;
+}
+.text-second{
+    cursor:help;
+}
+img{
+    width:250px;
+    height:250px;
+    object-fit: cover;
+    cursor:hand;
+}

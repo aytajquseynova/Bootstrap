@@ -1,0 +1,26 @@
+.text{
+    word-spacing:0.5cm;
+
+}
+.header{
+    letter-spacing: 1cm;
+}
+.header-info{
+    text-decoration: overline;
+}
+#title{
+    text-transform: lowercase;
+    text-align:left;
+}
+#title1{
+text-align:center; 
+text-transform: capitalize;
+}
+#title2{
+text-align: right;
+text-transform: uppercase;
+}
+#title3{
+text-align:justify;
+text-indent: 5cm;
+}
