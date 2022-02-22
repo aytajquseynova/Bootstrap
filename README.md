@@ -29,3 +29,20 @@
 * Sizing
 * Spacing
 * Visibility
+## Components
+* Akordion Tab
+* Alerts
+* Badges
+* Breadcrumb
+* Buttons
+* Button Groups
+* Cards
+* Popup modal
+* Navbar
+* OffCanvas
+* Pagination
+* Placeholder
+* Popovers
+* Progress
+* Spinner
+* Toasts
