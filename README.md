@@ -46,3 +46,13 @@
 * Progress
 * Spinner
 * Toasts
+## Forms
+* Form elementləri(Form Control)
+* Form elementleri(Select, check, radio, switch, range)
+* Input qruplama
+* Input etiketleri(floating labels)
+* Form doğrulama( validation)
+## Helpers
+* Linkləri rəngləndirmə(Colored links)
+* Ratio
+* Position
